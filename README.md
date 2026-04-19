@@ -78,7 +78,6 @@ yfinance
 pandas
 numpy
 matplotlib
-fpdf2
 ```
 
 ---
@@ -97,8 +96,7 @@ momentum-strategy-backtester/
 
 ## 🎯 Purpose
 
-Built as part of a quantitative finance curriculum at EDHEC Business School. The goal was to implement a rigorous systematic strategy pipeline — from raw data ingestion to out-of-sample risk reporting — mirroring the evaluation logic used in professional quant research.
-
+Built as a personal project in quantitative finance. The objective was to develop a rigorous systematic strategy pipeline, from raw data ingestion to out-of-sample risk reporting — reflecting the standards used in professional quantitative research.
 ---
 
 ## 📌 Roadmap
