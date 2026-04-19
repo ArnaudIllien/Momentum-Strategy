@@ -97,7 +97,9 @@ momentum-strategy-backtester/
 ## Purpose
 
 ```
-Built as a personal project in quantitative finance. The objective was to develop a rigorous systematic strategy pipeline, from raw data ingestion to out-of-sample risk reporting — reflecting the standards used in professional quantitative research.
+Built as a personal project in quantitative finance. The objective was to develop a rigorous systematic strategy pipeline,
+from raw data ingestion to out-of-sample risk reporting — reflecting the standards used in professional quantitative
+research.
 ---
 ```
 
