@@ -31,7 +31,6 @@ The Sharpe delta between train and test is displayed explicitly to flag overfitt
 | 📉 Risk metrics | Max Drawdown, Calmar Ratio, Win Rate, Annualised Vol & Return |
 | 🌍 Multi-asset dashboard | One-click comparison across 6 assets |
 | 🌐 Bilingual UI | French / English toggle |
-| 📄 PDF export | Downloadable strategy report via `fpdf2` |
 | 🔄 Live data | Real-time prices pulled from Yahoo Finance via `yfinance` |
 
 **Assets covered:** S&P 500 · Nasdaq · EUR/USD · BTC/USD · Gold · Apple
@@ -60,7 +59,6 @@ These limitations are documented directly in the dashboard UI.
 - `pandas` / `numpy` — data pipeline and signal computation
 - `matplotlib` — equity curve, drawdown, optimisation charts
 - `yfinance` — market data
-- `fpdf2` — PDF report generation
 
 ---
 
