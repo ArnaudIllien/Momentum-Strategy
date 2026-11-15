@@ -1,0 +1,7 @@
+streamlit>=1.65.0
+pandas>=3.0.3
+numpy>=2.4.6
+yfinance>=1.7.0
+plotly>=7.1.0
+kaleido>=1.5.1
+fpdf2>=2.9.0
